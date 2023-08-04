@@ -14,6 +14,7 @@
 		030114F02A7C1B2600C3D5BF /* blossomwords_grammarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030114EF2A7C1B2600C3D5BF /* blossomwords_grammarTests.swift */; };
 		030114FA2A7C1B2600C3D5BF /* blossomwords_grammarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030114F92A7C1B2600C3D5BF /* blossomwords_grammarUITests.swift */; };
 		030114FC2A7C1B2600C3D5BF /* blossomwords_grammarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030114FB2A7C1B2600C3D5BF /* blossomwords_grammarUITestsLaunchTests.swift */; };
+		030115092A7C1FAC00C3D5BF /* CHAT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030115082A7C1FAC00C3D5BF /* CHAT.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		030114F52A7C1B2600C3D5BF /* blossomwords-grammarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "blossomwords-grammarUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		030114F92A7C1B2600C3D5BF /* blossomwords_grammarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = blossomwords_grammarUITests.swift; sourceTree = "<group>"; };
 		030114FB2A7C1B2600C3D5BF /* blossomwords_grammarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = blossomwords_grammarUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		030115082A7C1FAC00C3D5BF /* CHAT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHAT.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				030114DE2A7C1B2400C3D5BF /* blossomwords_grammarApp.swift */,
 				030114E02A7C1B2400C3D5BF /* ContentView.swift */,
+				030115082A7C1FAC00C3D5BF /* CHAT.swift */,
 				030114E22A7C1B2500C3D5BF /* Assets.xcassets */,
 				030114E42A7C1B2500C3D5BF /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				030114E12A7C1B2400C3D5BF /* ContentView.swift in Sources */,
 				030114DF2A7C1B2400C3D5BF /* blossomwords_grammarApp.swift in Sources */,
+				030115092A7C1FAC00C3D5BF /* CHAT.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
